@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-1 {
+  background-image: url("https://sso.uns.ac.id/module.php/uns/img/symphony.png");
+  background-repeat: repeat;
+  }
+  
